@@ -1,0 +1,256 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    line-height: 1.6;
+    color: #000;
+    background-color: #fff;
+}
+
+.header {
+
+    background-color: #1C1B1B;
+    color: #000;
+}
+
+.f {
+    color: white;
+}
+
+.header-content {
+    padding: 20px;
+}
+
+.container {
+    max-width: 1446px;
+    margin: 0 auto;
+    padding: 0 150px;
+}
+
+/* header boshalndi */
+.header__list {
+    padding-left: 550px;
+    gap: 56px;
+    list-style: none;
+    display: flex;
+}
+
+.header__nav {
+    padding: 20px;
+}
+
+.header__link {
+    font-family: "Myriad Pro";
+    font-weight: 400;
+    font-style: "Regular";
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    gap: 56px;
+    color: white;
+}
+
+.header__link:hover {
+    color: #957ED1;
+}
+
+.header-content {
+    display: flex;
+}
+
+.Store {
+    color: #957ED1;
+}
+
+/* narxlar section boshalndi */
+.narxlar-wrapper {
+    height: 600px;
+    background-color: #1C1B1B;
+    color: #fff;
+    padding-top: 110px;
+    text-align: center;
+}
+
+.direct-advertiser {
+
+    color: #957ED1;
+}
+
+.narxlar-title {
+    padding-left: 100px;
+    width: 1400px;
+    font-family: "Myriad Pro";
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 72px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 32px;
+}
+
+.narxlar__container {
+    background-color: #1C1B1B;
+}
+
+.narxlar-text {
+    color: #CACACA;
+    padding-left: 400px;
+    width: 1152px;
+    font-family: "Myriad Pro";
+    font-weight: 400;
+    font-style: "Regular";
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+.narxlar-button {
+    background-color: #957ED1;
+    width: 174px;
+    height: 60px;
+    opacity: 1;
+    top: 492px;
+    left: 633px;
+    gap: 10px;
+    border-radius: 8px;
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    margin-left: 690px;
+}
+
+.narxlar-btn {
+    padding-left: 10px;
+    color: #fff;
+}
+
+.narxlar-button:hover {
+    background-color: #7c5bd2;
+}
+
+.wrap-card {
+    text-align: center;
+    color: #fff;
+    background-color: #252525DB;
+    width: 261px;
+    height: 148px;
+    opacity: 1;
+    gap: 10px;
+    border-radius: 20px;
+    padding: 32px;
+
+}
+.wrap-card:hover{
+    background-color: #7c5bd2;
+    cursor: pointer;
+}
+
+.narxlar-card {
+    padding-bottom: 110px;
+    padding-left: 50px;
+    gap: 30px;
+    display: flex;
+}
+
+.narxlar-tt {
+    font-family: "Myriad Pro";
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 0%;
+}
+
+/* karta section boshalndi */
+.karta-content {
+    padding-top: 120px;
+    display: flex;
+}
+
+.xarita-tt {
+    padding-left: 100px;
+}
+
+.xarita-tt {
+    margin-left: 100px;
+}
+
+.xarita2-tt {
+    margin-right: 100px;
+}
+
+.karta-title {
+    padding-top: 110px;
+    padding-bottom: 12px;
+    font-family: "Myriad Pro";
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 0%;
+}
+
+.xarita-span {
+    color: #7c5bd2;
+}
+
+.xarit2-text {
+
+    font-family: "Myriad Pro";
+    font-weight: 400;
+    font-style: "Regular";
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0%
+}
+
+.up-to-25 {
+    color: #7c5bd2;
+}
+
+.high-rates {
+    color: #7c5bd2;
+}
+.texnika-title{
+    font-family: "Myriad Pro";
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+padding-bottom: 50px;
+line-height: 56px;
+letter-spacing: 0%;
+
+}
+
+.texnik-title2{
+    padding-top: 55px;
+    font-family: "Myriad Pro";
+font-weight: 600;
+font-style: "Semibold";
+font-size: 32px;
+line-height: 48px;
+letter-spacing: 0%;
+
+}
+.texnik-text {
+    padding-top: 10px;
+    width: 554px;
+    font-family: "Myriad Pro";
+    font-weight: 400;
+    font-style: "Regular";
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0%;
+
+}
